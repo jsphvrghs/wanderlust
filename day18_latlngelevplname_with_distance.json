@@ -1,0 +1,4405 @@
+[
+    {
+        "Lat": 23.0225,
+        "Lng": 72.5713,
+        "Elevation": 50.0,
+        "Distance": 0.0,
+        "Placename": "Ahmedabad"
+    },
+    {
+        "Lat": 23.02257,
+        "Lng": 72.57129,
+        "Elevation": 50.0,
+        "Distance": 7.85,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02269,
+        "Lng": 72.57129,
+        "Elevation": 51.0,
+        "Distance": 21.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02269,
+        "Lng": 72.57147,
+        "Elevation": 52.0,
+        "Distance": 39.61,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02257,
+        "Lng": 72.57149,
+        "Elevation": 51.0,
+        "Distance": 53.11,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02241,
+        "Lng": 72.5715,
+        "Elevation": 51.0,
+        "Distance": 70.93,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02218,
+        "Lng": 72.5715,
+        "Elevation": 52.0,
+        "Distance": 96.51,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.022,
+        "Lng": 72.57147,
+        "Elevation": 53.0,
+        "Distance": 116.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02189,
+        "Lng": 72.57143,
+        "Elevation": 53.0,
+        "Distance": 129.66,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02183,
+        "Lng": 72.57142,
+        "Elevation": 52.0,
+        "Distance": 136.41,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02169,
+        "Lng": 72.57136,
+        "Elevation": 51.0,
+        "Distance": 153.14,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02161,
+        "Lng": 72.57132,
+        "Elevation": 51.0,
+        "Distance": 162.93,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02155,
+        "Lng": 72.57128,
+        "Elevation": 51.0,
+        "Distance": 170.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02145,
+        "Lng": 72.5712,
+        "Elevation": 50.0,
+        "Distance": 184.57,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0214,
+        "Lng": 72.57115,
+        "Elevation": 50.0,
+        "Distance": 192.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02135,
+        "Lng": 72.57111,
+        "Elevation": 50.0,
+        "Distance": 199.03,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02108,
+        "Lng": 72.57082,
+        "Elevation": 51.0,
+        "Distance": 241.25,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02083,
+        "Lng": 72.57052,
+        "Elevation": 51.0,
+        "Distance": 282.66,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01962,
+        "Lng": 72.56962,
+        "Elevation": 52.0,
+        "Distance": 445.72,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01888,
+        "Lng": 72.56896,
+        "Elevation": 51.0,
+        "Distance": 552.17,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01881,
+        "Lng": 72.56891,
+        "Elevation": 51.0,
+        "Distance": 561.49,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01824,
+        "Lng": 72.56844,
+        "Elevation": 54.0,
+        "Distance": 641.05,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01787,
+        "Lng": 72.56809,
+        "Elevation": 54.0,
+        "Distance": 695.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01764,
+        "Lng": 72.56791,
+        "Elevation": 56.0,
+        "Distance": 727.12,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01761,
+        "Lng": 72.56788,
+        "Elevation": 56.0,
+        "Distance": 731.66,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01744,
+        "Lng": 72.56775,
+        "Elevation": 56.0,
+        "Distance": 754.77,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01741,
+        "Lng": 72.56772,
+        "Elevation": 56.0,
+        "Distance": 759.31,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01598,
+        "Lng": 72.56658,
+        "Elevation": 55.0,
+        "Distance": 956.53,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0144,
+        "Lng": 72.56524,
+        "Elevation": 48.0,
+        "Distance": 1179.4,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01421,
+        "Lng": 72.56509,
+        "Elevation": 49.0,
+        "Distance": 1205.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01412,
+        "Lng": 72.56503,
+        "Elevation": 49.0,
+        "Distance": 1217.26,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01401,
+        "Lng": 72.56494,
+        "Elevation": 49.0,
+        "Distance": 1232.57,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01326,
+        "Lng": 72.5644,
+        "Elevation": 49.0,
+        "Distance": 1332.62,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01325,
+        "Lng": 72.56439,
+        "Elevation": 49.0,
+        "Distance": 1334.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01314,
+        "Lng": 72.56432,
+        "Elevation": 49.0,
+        "Distance": 1348.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01255,
+        "Lng": 72.5639,
+        "Elevation": 50.0,
+        "Distance": 1426.74,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01213,
+        "Lng": 72.56363,
+        "Elevation": 53.0,
+        "Distance": 1481.0,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01159,
+        "Lng": 72.56332,
+        "Elevation": 50.0,
+        "Distance": 1548.91,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01116,
+        "Lng": 72.56312,
+        "Elevation": 48.0,
+        "Distance": 1600.92,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01114,
+        "Lng": 72.5631,
+        "Elevation": 49.0,
+        "Distance": 1603.95,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01107,
+        "Lng": 72.56306,
+        "Elevation": 49.0,
+        "Distance": 1612.74,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01048,
+        "Lng": 72.5628,
+        "Elevation": 52.0,
+        "Distance": 1683.54,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01022,
+        "Lng": 72.56267,
+        "Elevation": 52.0,
+        "Distance": 1715.36,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00968,
+        "Lng": 72.56242,
+        "Elevation": 52.0,
+        "Distance": 1780.63,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00927,
+        "Lng": 72.56217,
+        "Elevation": 51.0,
+        "Distance": 1832.91,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00921,
+        "Lng": 72.56212,
+        "Elevation": 52.0,
+        "Distance": 1841.32,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00917,
+        "Lng": 72.56208,
+        "Elevation": 52.0,
+        "Distance": 1847.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00914,
+        "Lng": 72.56204,
+        "Elevation": 52.0,
+        "Distance": 1852.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00893,
+        "Lng": 72.56171,
+        "Elevation": 53.0,
+        "Distance": 1893.71,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00877,
+        "Lng": 72.56144,
+        "Elevation": 54.0,
+        "Distance": 1926.57,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00806,
+        "Lng": 72.56012,
+        "Elevation": 49.0,
+        "Distance": 2083.05,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.008,
+        "Lng": 72.55998,
+        "Elevation": 49.0,
+        "Distance": 2098.86,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00791,
+        "Lng": 72.55972,
+        "Elevation": 49.0,
+        "Distance": 2127.29,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00768,
+        "Lng": 72.55892,
+        "Elevation": 50.0,
+        "Distance": 2213.07,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00766,
+        "Lng": 72.55883,
+        "Elevation": 50.0,
+        "Distance": 2222.54,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0076,
+        "Lng": 72.55864,
+        "Elevation": 50.0,
+        "Distance": 2243.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00747,
+        "Lng": 72.55828,
+        "Elevation": 52.0,
+        "Distance": 2282.68,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00746,
+        "Lng": 72.55828,
+        "Elevation": 52.0,
+        "Distance": 2283.8,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00737,
+        "Lng": 72.55809,
+        "Elevation": 52.0,
+        "Distance": 2305.67,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00727,
+        "Lng": 72.55792,
+        "Elevation": 51.0,
+        "Distance": 2326.32,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00716,
+        "Lng": 72.55775,
+        "Elevation": 51.0,
+        "Distance": 2347.58,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0071,
+        "Lng": 72.55768,
+        "Elevation": 51.0,
+        "Distance": 2357.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00705,
+        "Lng": 72.5576,
+        "Elevation": 51.0,
+        "Distance": 2367.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00692,
+        "Lng": 72.55744,
+        "Elevation": 51.0,
+        "Distance": 2389.11,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00654,
+        "Lng": 72.55707,
+        "Elevation": 51.0,
+        "Distance": 2445.85,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00652,
+        "Lng": 72.55706,
+        "Elevation": 51.0,
+        "Distance": 2448.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0064,
+        "Lng": 72.55695,
+        "Elevation": 50.0,
+        "Distance": 2465.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00622,
+        "Lng": 72.55676,
+        "Elevation": 51.0,
+        "Distance": 2493.67,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00615,
+        "Lng": 72.55667,
+        "Elevation": 51.0,
+        "Distance": 2505.73,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00604,
+        "Lng": 72.5565,
+        "Elevation": 51.0,
+        "Distance": 2527.0,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00596,
+        "Lng": 72.55636,
+        "Elevation": 51.0,
+        "Distance": 2543.86,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00574,
+        "Lng": 72.5558,
+        "Elevation": 52.0,
+        "Distance": 2606.18,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00565,
+        "Lng": 72.5556,
+        "Elevation": 52.0,
+        "Distance": 2628.97,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00554,
+        "Lng": 72.55538,
+        "Elevation": 52.0,
+        "Distance": 2654.59,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00547,
+        "Lng": 72.55521,
+        "Elevation": 51.0,
+        "Distance": 2673.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00542,
+        "Lng": 72.55512,
+        "Elevation": 51.0,
+        "Distance": 2684.41,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00537,
+        "Lng": 72.555,
+        "Elevation": 51.0,
+        "Distance": 2697.89,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00504,
+        "Lng": 72.55431,
+        "Elevation": 49.0,
+        "Distance": 2777.48,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00498,
+        "Lng": 72.55417,
+        "Elevation": 49.0,
+        "Distance": 2793.29,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00489,
+        "Lng": 72.55401,
+        "Elevation": 50.0,
+        "Distance": 2812.48,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00489,
+        "Lng": 72.554,
+        "Elevation": 50.0,
+        "Distance": 2813.5,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0048,
+        "Lng": 72.55384,
+        "Elevation": 51.0,
+        "Distance": 2832.69,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00478,
+        "Lng": 72.55379,
+        "Elevation": 50.0,
+        "Distance": 2838.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00474,
+        "Lng": 72.55373,
+        "Elevation": 50.0,
+        "Distance": 2845.86,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00455,
+        "Lng": 72.55337,
+        "Elevation": 48.0,
+        "Distance": 2888.33,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00442,
+        "Lng": 72.55319,
+        "Elevation": 47.0,
+        "Distance": 2911.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00431,
+        "Lng": 72.55302,
+        "Elevation": 48.0,
+        "Distance": 2933.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00392,
+        "Lng": 72.55249,
+        "Elevation": 49.0,
+        "Distance": 3002.47,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00367,
+        "Lng": 72.55218,
+        "Elevation": 50.0,
+        "Distance": 3044.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00348,
+        "Lng": 72.55199,
+        "Elevation": 53.0,
+        "Distance": 3073.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00331,
+        "Lng": 72.55185,
+        "Elevation": 54.0,
+        "Distance": 3097.09,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00329,
+        "Lng": 72.55183,
+        "Elevation": 54.0,
+        "Distance": 3100.11,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00299,
+        "Lng": 72.55158,
+        "Elevation": 53.0,
+        "Distance": 3142.15,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00292,
+        "Lng": 72.55151,
+        "Elevation": 52.0,
+        "Distance": 3152.73,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00289,
+        "Lng": 72.55147,
+        "Elevation": 52.0,
+        "Distance": 3158.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00286,
+        "Lng": 72.55144,
+        "Elevation": 52.0,
+        "Distance": 3162.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00259,
+        "Lng": 72.55109,
+        "Elevation": 51.0,
+        "Distance": 3209.29,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00254,
+        "Lng": 72.55104,
+        "Elevation": 51.0,
+        "Distance": 3216.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0025,
+        "Lng": 72.55102,
+        "Elevation": 51.0,
+        "Distance": 3221.74,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00246,
+        "Lng": 72.55101,
+        "Elevation": 51.0,
+        "Distance": 3226.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00245,
+        "Lng": 72.55097,
+        "Elevation": 51.0,
+        "Distance": 3230.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00232,
+        "Lng": 72.55059,
+        "Elevation": 52.0,
+        "Distance": 3272.04,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00229,
+        "Lng": 72.55053,
+        "Elevation": 52.0,
+        "Distance": 3279.03,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00227,
+        "Lng": 72.55045,
+        "Elevation": 52.0,
+        "Distance": 3287.51,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00226,
+        "Lng": 72.55039,
+        "Elevation": 51.0,
+        "Distance": 3293.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0022,
+        "Lng": 72.55019,
+        "Elevation": 51.0,
+        "Distance": 3315.29,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00201,
+        "Lng": 72.54926,
+        "Elevation": 50.0,
+        "Distance": 3412.79,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00185,
+        "Lng": 72.54842,
+        "Elevation": 48.0,
+        "Distance": 3500.59,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00182,
+        "Lng": 72.54808,
+        "Elevation": 47.0,
+        "Distance": 3535.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0018,
+        "Lng": 72.54798,
+        "Elevation": 46.0,
+        "Distance": 3546.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0018,
+        "Lng": 72.54794,
+        "Elevation": 45.0,
+        "Distance": 3550.12,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00178,
+        "Lng": 72.54782,
+        "Elevation": 44.0,
+        "Distance": 3562.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00176,
+        "Lng": 72.54776,
+        "Elevation": 44.0,
+        "Distance": 3569.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00175,
+        "Lng": 72.54771,
+        "Elevation": 44.0,
+        "Distance": 3574.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00171,
+        "Lng": 72.54764,
+        "Elevation": 44.0,
+        "Distance": 3582.8,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00163,
+        "Lng": 72.54756,
+        "Elevation": 43.0,
+        "Distance": 3594.89,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00162,
+        "Lng": 72.54754,
+        "Elevation": 43.0,
+        "Distance": 3597.22,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00136,
+        "Lng": 72.54729,
+        "Elevation": 45.0,
+        "Distance": 3635.83,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0012,
+        "Lng": 72.54719,
+        "Elevation": 45.0,
+        "Distance": 3656.36,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00102,
+        "Lng": 72.54709,
+        "Elevation": 45.0,
+        "Distance": 3678.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00061,
+        "Lng": 72.5469,
+        "Elevation": 44.0,
+        "Distance": 3728.4,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0005,
+        "Lng": 72.54682,
+        "Elevation": 44.0,
+        "Distance": 3743.12,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00041,
+        "Lng": 72.54674,
+        "Elevation": 44.0,
+        "Distance": 3756.05,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00019,
+        "Lng": 72.54648,
+        "Elevation": 45.0,
+        "Distance": 3792.2,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99974,
+        "Lng": 72.54587,
+        "Elevation": 46.0,
+        "Distance": 3872.21,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9991,
+        "Lng": 72.54469,
+        "Elevation": 47.0,
+        "Distance": 4012.4,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99882,
+        "Lng": 72.54414,
+        "Elevation": 45.0,
+        "Distance": 4076.73,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99877,
+        "Lng": 72.544,
+        "Elevation": 44.0,
+        "Distance": 4092.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99876,
+        "Lng": 72.54399,
+        "Elevation": 44.0,
+        "Distance": 4093.61,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99819,
+        "Lng": 72.54263,
+        "Elevation": 44.0,
+        "Distance": 4246.57,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99789,
+        "Lng": 72.542,
+        "Elevation": 45.0,
+        "Distance": 4319.17,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9976,
+        "Lng": 72.54133,
+        "Elevation": 47.0,
+        "Distance": 4394.95,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99759,
+        "Lng": 72.54129,
+        "Elevation": 46.0,
+        "Distance": 4399.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99699,
+        "Lng": 72.53982,
+        "Elevation": 46.0,
+        "Distance": 4563.79,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99682,
+        "Lng": 72.53932,
+        "Elevation": 44.0,
+        "Distance": 4618.35,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99682,
+        "Lng": 72.53931,
+        "Elevation": 44.0,
+        "Distance": 4619.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99666,
+        "Lng": 72.53879,
+        "Elevation": 43.0,
+        "Distance": 4675.49,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99647,
+        "Lng": 72.538,
+        "Elevation": 45.0,
+        "Distance": 4759.07,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99643,
+        "Lng": 72.53791,
+        "Elevation": 45.0,
+        "Distance": 4769.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99638,
+        "Lng": 72.53774,
+        "Elevation": 45.0,
+        "Distance": 4787.56,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99594,
+        "Lng": 72.5357,
+        "Elevation": 41.0,
+        "Distance": 5002.03,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99542,
+        "Lng": 72.53352,
+        "Elevation": 41.0,
+        "Distance": 5232.54,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99537,
+        "Lng": 72.53321,
+        "Elevation": 42.0,
+        "Distance": 5264.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99535,
+        "Lng": 72.53313,
+        "Elevation": 43.0,
+        "Distance": 5273.24,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99534,
+        "Lng": 72.53312,
+        "Elevation": 43.0,
+        "Distance": 5274.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99506,
+        "Lng": 72.53195,
+        "Elevation": 44.0,
+        "Distance": 5398.49,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99505,
+        "Lng": 72.53188,
+        "Elevation": 43.0,
+        "Distance": 5405.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99468,
+        "Lng": 72.53027,
+        "Elevation": 44.0,
+        "Distance": 5575.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99464,
+        "Lng": 72.53015,
+        "Elevation": 44.0,
+        "Distance": 5588.67,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99461,
+        "Lng": 72.52999,
+        "Elevation": 44.0,
+        "Distance": 5605.38,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99439,
+        "Lng": 72.52909,
+        "Elevation": 42.0,
+        "Distance": 5700.7,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99434,
+        "Lng": 72.52892,
+        "Elevation": 42.0,
+        "Distance": 5718.96,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99414,
+        "Lng": 72.52811,
+        "Elevation": 42.0,
+        "Distance": 5804.81,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99414,
+        "Lng": 72.52809,
+        "Elevation": 42.0,
+        "Distance": 5806.85,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99392,
+        "Lng": 72.52736,
+        "Elevation": 41.0,
+        "Distance": 5885.48,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99373,
+        "Lng": 72.52655,
+        "Elevation": 42.0,
+        "Distance": 5971.04,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99368,
+        "Lng": 72.52638,
+        "Elevation": 42.0,
+        "Distance": 5989.31,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99367,
+        "Lng": 72.52636,
+        "Elevation": 42.0,
+        "Distance": 5991.64,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99314,
+        "Lng": 72.52442,
+        "Elevation": 46.0,
+        "Distance": 6198.78,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99304,
+        "Lng": 72.524,
+        "Elevation": 42.0,
+        "Distance": 6243.18,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99303,
+        "Lng": 72.52399,
+        "Elevation": 42.0,
+        "Distance": 6244.69,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99299,
+        "Lng": 72.52381,
+        "Elevation": 42.0,
+        "Distance": 6263.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99289,
+        "Lng": 72.52344,
+        "Elevation": 41.0,
+        "Distance": 6303.12,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99285,
+        "Lng": 72.52325,
+        "Elevation": 41.0,
+        "Distance": 6323.07,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9928,
+        "Lng": 72.52306,
+        "Elevation": 41.0,
+        "Distance": 6343.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9928,
+        "Lng": 72.52305,
+        "Elevation": 41.0,
+        "Distance": 6344.32,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9926,
+        "Lng": 72.52231,
+        "Elevation": 42.0,
+        "Distance": 6423.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99231,
+        "Lng": 72.52141,
+        "Elevation": 47.0,
+        "Distance": 6520.87,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99217,
+        "Lng": 72.52106,
+        "Elevation": 43.0,
+        "Distance": 6559.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99216,
+        "Lng": 72.52105,
+        "Elevation": 43.0,
+        "Distance": 6561.45,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99133,
+        "Lng": 72.51898,
+        "Elevation": 41.0,
+        "Distance": 6792.56,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99131,
+        "Lng": 72.51894,
+        "Elevation": 41.0,
+        "Distance": 6797.22,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99126,
+        "Lng": 72.5188,
+        "Elevation": 42.0,
+        "Distance": 6812.59,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98985,
+        "Lng": 72.51533,
+        "Elevation": 38.0,
+        "Distance": 7200.86,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98984,
+        "Lng": 72.51533,
+        "Elevation": 38.0,
+        "Distance": 7201.97,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98944,
+        "Lng": 72.51425,
+        "Elevation": 40.0,
+        "Distance": 7321.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98931,
+        "Lng": 72.51384,
+        "Elevation": 40.0,
+        "Distance": 7365.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98909,
+        "Lng": 72.51301,
+        "Elevation": 42.0,
+        "Distance": 7453.93,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98887,
+        "Lng": 72.51192,
+        "Elevation": 43.0,
+        "Distance": 7568.16,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98852,
+        "Lng": 72.51034,
+        "Elevation": 39.0,
+        "Distance": 7734.51,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98843,
+        "Lng": 72.50999,
+        "Elevation": 38.0,
+        "Distance": 7771.71,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98843,
+        "Lng": 72.50996,
+        "Elevation": 38.0,
+        "Distance": 7774.78,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98834,
+        "Lng": 72.50951,
+        "Elevation": 36.0,
+        "Distance": 7821.92,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98832,
+        "Lng": 72.50946,
+        "Elevation": 36.0,
+        "Distance": 7827.5,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98814,
+        "Lng": 72.50837,
+        "Elevation": 40.0,
+        "Distance": 7940.86,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98813,
+        "Lng": 72.50825,
+        "Elevation": 41.0,
+        "Distance": 7953.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98803,
+        "Lng": 72.50748,
+        "Elevation": 43.0,
+        "Distance": 8032.79,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98801,
+        "Lng": 72.50737,
+        "Elevation": 43.0,
+        "Distance": 8044.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9879,
+        "Lng": 72.50656,
+        "Elevation": 44.0,
+        "Distance": 8128.08,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98789,
+        "Lng": 72.50642,
+        "Elevation": 44.0,
+        "Distance": 8142.46,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98771,
+        "Lng": 72.50483,
+        "Elevation": 45.0,
+        "Distance": 8306.44,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98769,
+        "Lng": 72.50456,
+        "Elevation": 44.0,
+        "Distance": 8334.17,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98758,
+        "Lng": 72.50363,
+        "Elevation": 44.0,
+        "Distance": 8430.15,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98755,
+        "Lng": 72.50347,
+        "Elevation": 44.0,
+        "Distance": 8446.87,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98755,
+        "Lng": 72.50344,
+        "Elevation": 44.0,
+        "Distance": 8449.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98751,
+        "Lng": 72.50311,
+        "Elevation": 43.0,
+        "Distance": 8484.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98743,
+        "Lng": 72.50283,
+        "Elevation": 43.0,
+        "Distance": 8514.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9874,
+        "Lng": 72.50278,
+        "Elevation": 43.0,
+        "Distance": 8520.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98735,
+        "Lng": 72.50268,
+        "Elevation": 43.0,
+        "Distance": 8531.78,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98728,
+        "Lng": 72.50252,
+        "Elevation": 43.0,
+        "Distance": 8549.92,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.987,
+        "Lng": 72.502,
+        "Elevation": 44.0,
+        "Distance": 8611.58,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98698,
+        "Lng": 72.502,
+        "Elevation": 44.0,
+        "Distance": 8613.81,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98697,
+        "Lng": 72.50199,
+        "Elevation": 44.0,
+        "Distance": 8615.32,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98696,
+        "Lng": 72.50199,
+        "Elevation": 44.0,
+        "Distance": 8616.43,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98695,
+        "Lng": 72.50198,
+        "Elevation": 44.0,
+        "Distance": 8617.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98694,
+        "Lng": 72.50198,
+        "Elevation": 44.0,
+        "Distance": 8619.05,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98694,
+        "Lng": 72.50197,
+        "Elevation": 44.0,
+        "Distance": 8620.08,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98692,
+        "Lng": 72.50195,
+        "Elevation": 44.0,
+        "Distance": 8623.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98692,
+        "Lng": 72.50194,
+        "Elevation": 44.0,
+        "Distance": 8624.12,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98691,
+        "Lng": 72.50193,
+        "Elevation": 44.0,
+        "Distance": 8625.63,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98691,
+        "Lng": 72.50191,
+        "Elevation": 44.0,
+        "Distance": 8627.68,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9869,
+        "Lng": 72.5019,
+        "Elevation": 44.0,
+        "Distance": 8629.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9869,
+        "Lng": 72.50187,
+        "Elevation": 44.0,
+        "Distance": 8632.26,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9868,
+        "Lng": 72.50169,
+        "Elevation": 43.0,
+        "Distance": 8653.78,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98675,
+        "Lng": 72.50163,
+        "Elevation": 42.0,
+        "Distance": 8662.07,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98656,
+        "Lng": 72.50134,
+        "Elevation": 40.0,
+        "Distance": 8698.51,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98563,
+        "Lng": 72.50007,
+        "Elevation": 46.0,
+        "Distance": 8864.62,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98367,
+        "Lng": 72.49765,
+        "Elevation": 42.0,
+        "Distance": 9194.57,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98354,
+        "Lng": 72.4975,
+        "Elevation": 43.0,
+        "Distance": 9215.66,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9835,
+        "Lng": 72.49746,
+        "Elevation": 43.0,
+        "Distance": 9221.71,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98217,
+        "Lng": 72.49589,
+        "Elevation": 46.0,
+        "Distance": 9440.12,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98215,
+        "Lng": 72.49587,
+        "Elevation": 46.0,
+        "Distance": 9443.14,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98205,
+        "Lng": 72.49575,
+        "Elevation": 45.0,
+        "Distance": 9459.71,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98203,
+        "Lng": 72.49573,
+        "Elevation": 45.0,
+        "Distance": 9462.73,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98081,
+        "Lng": 72.4943,
+        "Elevation": 45.0,
+        "Distance": 9662.31,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98068,
+        "Lng": 72.49413,
+        "Elevation": 45.0,
+        "Distance": 9684.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98054,
+        "Lng": 72.49397,
+        "Elevation": 44.0,
+        "Distance": 9707.53,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97969,
+        "Lng": 72.49293,
+        "Elevation": 45.0,
+        "Distance": 9849.9,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97961,
+        "Lng": 72.49278,
+        "Elevation": 45.0,
+        "Distance": 9867.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97957,
+        "Lng": 72.49267,
+        "Elevation": 45.0,
+        "Distance": 9879.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97931,
+        "Lng": 72.49249,
+        "Elevation": 44.0,
+        "Distance": 9914.04,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97922,
+        "Lng": 72.49242,
+        "Elevation": 44.0,
+        "Distance": 9926.35,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97911,
+        "Lng": 72.49235,
+        "Elevation": 43.0,
+        "Distance": 9940.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97873,
+        "Lng": 72.49204,
+        "Elevation": 44.0,
+        "Distance": 9993.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97841,
+        "Lng": 72.49172,
+        "Elevation": 44.0,
+        "Distance": 10041.73,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97834,
+        "Lng": 72.49164,
+        "Elevation": 44.0,
+        "Distance": 10053.03,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97819,
+        "Lng": 72.49149,
+        "Elevation": 43.0,
+        "Distance": 10075.7,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97815,
+        "Lng": 72.49144,
+        "Elevation": 43.0,
+        "Distance": 10082.48,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97794,
+        "Lng": 72.49121,
+        "Elevation": 42.0,
+        "Distance": 10115.64,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97711,
+        "Lng": 72.49037,
+        "Elevation": 43.0,
+        "Distance": 10241.79,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97561,
+        "Lng": 72.48894,
+        "Elevation": 43.0,
+        "Distance": 10463.71,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97555,
+        "Lng": 72.48889,
+        "Elevation": 43.0,
+        "Distance": 10472.12,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97528,
+        "Lng": 72.48859,
+        "Elevation": 42.0,
+        "Distance": 10515.07,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97516,
+        "Lng": 72.48843,
+        "Elevation": 41.0,
+        "Distance": 10536.2,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97511,
+        "Lng": 72.48835,
+        "Elevation": 41.0,
+        "Distance": 10546.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97507,
+        "Lng": 72.48827,
+        "Elevation": 41.0,
+        "Distance": 10555.42,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97319,
+        "Lng": 72.48644,
+        "Elevation": 42.0,
+        "Distance": 10836.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97298,
+        "Lng": 72.48625,
+        "Elevation": 42.0,
+        "Distance": 10866.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97278,
+        "Lng": 72.48605,
+        "Elevation": 40.0,
+        "Distance": 10896.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97268,
+        "Lng": 72.48596,
+        "Elevation": 40.0,
+        "Distance": 10911.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9724,
+        "Lng": 72.48568,
+        "Elevation": 38.0,
+        "Distance": 10953.51,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97222,
+        "Lng": 72.48552,
+        "Elevation": 38.0,
+        "Distance": 10979.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97189,
+        "Lng": 72.48519,
+        "Elevation": 40.0,
+        "Distance": 11029.25,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9717,
+        "Lng": 72.48502,
+        "Elevation": 42.0,
+        "Distance": 11056.63,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96869,
+        "Lng": 72.48209,
+        "Elevation": 43.0,
+        "Distance": 11506.07,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9686,
+        "Lng": 72.48201,
+        "Elevation": 44.0,
+        "Distance": 11519.0,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96787,
+        "Lng": 72.48128,
+        "Elevation": 47.0,
+        "Distance": 11629.34,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96534,
+        "Lng": 72.47883,
+        "Elevation": 40.0,
+        "Distance": 12006.25,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96498,
+        "Lng": 72.47863,
+        "Elevation": 40.0,
+        "Distance": 12051.21,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96466,
+        "Lng": 72.47833,
+        "Elevation": 40.0,
+        "Distance": 12098.22,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96367,
+        "Lng": 72.47733,
+        "Elevation": 41.0,
+        "Distance": 12248.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96223,
+        "Lng": 72.4761,
+        "Elevation": 40.0,
+        "Distance": 12452.26,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96212,
+        "Lng": 72.47599,
+        "Elevation": 40.0,
+        "Distance": 12468.89,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9619,
+        "Lng": 72.47584,
+        "Elevation": 40.0,
+        "Distance": 12497.77,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96181,
+        "Lng": 72.47582,
+        "Elevation": 40.0,
+        "Distance": 12507.99,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96155,
+        "Lng": 72.47558,
+        "Elevation": 39.0,
+        "Distance": 12545.93,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96132,
+        "Lng": 72.47529,
+        "Elevation": 39.0,
+        "Distance": 12585.12,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96127,
+        "Lng": 72.47517,
+        "Elevation": 39.0,
+        "Distance": 12598.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9612,
+        "Lng": 72.47518,
+        "Elevation": 39.0,
+        "Distance": 12606.46,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96118,
+        "Lng": 72.47518,
+        "Elevation": 39.0,
+        "Distance": 12608.68,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96114,
+        "Lng": 72.47516,
+        "Elevation": 39.0,
+        "Distance": 12613.58,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96112,
+        "Lng": 72.47516,
+        "Elevation": 39.0,
+        "Distance": 12615.8,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96104,
+        "Lng": 72.47511,
+        "Elevation": 40.0,
+        "Distance": 12626.06,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96093,
+        "Lng": 72.47502,
+        "Elevation": 40.0,
+        "Distance": 12641.38,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9609,
+        "Lng": 72.475,
+        "Elevation": 40.0,
+        "Distance": 12645.29,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9587,
+        "Lng": 72.47319,
+        "Elevation": 42.0,
+        "Distance": 12952.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9576,
+        "Lng": 72.4722,
+        "Elevation": 36.0,
+        "Distance": 13111.05,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95757,
+        "Lng": 72.47218,
+        "Elevation": 36.0,
+        "Distance": 13114.96,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95717,
+        "Lng": 72.47185,
+        "Elevation": 37.0,
+        "Distance": 13170.82,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95692,
+        "Lng": 72.47163,
+        "Elevation": 39.0,
+        "Distance": 13206.59,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95684,
+        "Lng": 72.47144,
+        "Elevation": 40.0,
+        "Distance": 13227.99,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95566,
+        "Lng": 72.47046,
+        "Elevation": 38.0,
+        "Distance": 13393.17,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95553,
+        "Lng": 72.47036,
+        "Elevation": 37.0,
+        "Distance": 13410.88,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95544,
+        "Lng": 72.47027,
+        "Elevation": 37.0,
+        "Distance": 13424.48,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95511,
+        "Lng": 72.46997,
+        "Elevation": 38.0,
+        "Distance": 13472.34,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95455,
+        "Lng": 72.46949,
+        "Elevation": 39.0,
+        "Distance": 13551.67,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9544,
+        "Lng": 72.46937,
+        "Elevation": 40.0,
+        "Distance": 13572.38,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9537,
+        "Lng": 72.46877,
+        "Elevation": 36.0,
+        "Distance": 13671.54,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95356,
+        "Lng": 72.46864,
+        "Elevation": 35.0,
+        "Distance": 13692.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95341,
+        "Lng": 72.46852,
+        "Elevation": 35.0,
+        "Distance": 13712.74,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95306,
+        "Lng": 72.46821,
+        "Elevation": 38.0,
+        "Distance": 13762.96,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94834,
+        "Lng": 72.46422,
+        "Elevation": 42.0,
+        "Distance": 14428.07,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94812,
+        "Lng": 72.46406,
+        "Elevation": 44.0,
+        "Distance": 14457.51,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94773,
+        "Lng": 72.46373,
+        "Elevation": 43.0,
+        "Distance": 14512.49,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94772,
+        "Lng": 72.46371,
+        "Elevation": 43.0,
+        "Distance": 14514.82,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9477,
+        "Lng": 72.4637,
+        "Elevation": 43.0,
+        "Distance": 14517.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94629,
+        "Lng": 72.46251,
+        "Elevation": 39.0,
+        "Distance": 14715.83,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94573,
+        "Lng": 72.46201,
+        "Elevation": 37.0,
+        "Distance": 14796.45,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94499,
+        "Lng": 72.46139,
+        "Elevation": 38.0,
+        "Distance": 14900.38,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94472,
+        "Lng": 72.46114,
+        "Elevation": 40.0,
+        "Distance": 14939.83,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94436,
+        "Lng": 72.46083,
+        "Elevation": 42.0,
+        "Distance": 14990.92,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94428,
+        "Lng": 72.46075,
+        "Elevation": 41.0,
+        "Distance": 15003.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94212,
+        "Lng": 72.45892,
+        "Elevation": 35.0,
+        "Distance": 15307.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94206,
+        "Lng": 72.45886,
+        "Elevation": 35.0,
+        "Distance": 15316.72,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94189,
+        "Lng": 72.45872,
+        "Elevation": 36.0,
+        "Distance": 15340.44,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94145,
+        "Lng": 72.45833,
+        "Elevation": 37.0,
+        "Distance": 15403.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94122,
+        "Lng": 72.45811,
+        "Elevation": 38.0,
+        "Distance": 15437.68,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93542,
+        "Lng": 72.45313,
+        "Elevation": 36.0,
+        "Distance": 16259.87,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93455,
+        "Lng": 72.45242,
+        "Elevation": 34.0,
+        "Distance": 16380.88,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9332,
+        "Lng": 72.45124,
+        "Elevation": 38.0,
+        "Distance": 16573.59,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93229,
+        "Lng": 72.4505,
+        "Elevation": 38.0,
+        "Distance": 16700.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93005,
+        "Lng": 72.44858,
+        "Elevation": 36.0,
+        "Distance": 17017.34,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92996,
+        "Lng": 72.44849,
+        "Elevation": 36.0,
+        "Distance": 17030.95,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92754,
+        "Lng": 72.4464,
+        "Elevation": 36.0,
+        "Distance": 17374.78,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92705,
+        "Lng": 72.4459,
+        "Elevation": 34.0,
+        "Distance": 17449.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92547,
+        "Lng": 72.44443,
+        "Elevation": 35.0,
+        "Distance": 17680.92,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92466,
+        "Lng": 72.4437,
+        "Elevation": 34.0,
+        "Distance": 17797.97,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91525,
+        "Lng": 72.43495,
+        "Elevation": 31.0,
+        "Distance": 19175.61,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91472,
+        "Lng": 72.43444,
+        "Elevation": 31.0,
+        "Distance": 19254.36,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91465,
+        "Lng": 72.43452,
+        "Elevation": 31.0,
+        "Distance": 19265.67,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91149,
+        "Lng": 72.43157,
+        "Elevation": 30.0,
+        "Distance": 19729.08,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9111,
+        "Lng": 72.43122,
+        "Elevation": 29.0,
+        "Distance": 19785.35,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91065,
+        "Lng": 72.43088,
+        "Elevation": 28.0,
+        "Distance": 19846.31,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90992,
+        "Lng": 72.43021,
+        "Elevation": 30.0,
+        "Distance": 19952.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90944,
+        "Lng": 72.42979,
+        "Elevation": 24.0,
+        "Distance": 20021.15,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90929,
+        "Lng": 72.42963,
+        "Elevation": 25.0,
+        "Distance": 20044.54,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90908,
+        "Lng": 72.42944,
+        "Elevation": 27.0,
+        "Distance": 20074.93,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90866,
+        "Lng": 72.42902,
+        "Elevation": 32.0,
+        "Distance": 20138.43,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90791,
+        "Lng": 72.42836,
+        "Elevation": 25.0,
+        "Distance": 20245.78,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90666,
+        "Lng": 72.42719,
+        "Elevation": 29.0,
+        "Distance": 20429.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90676,
+        "Lng": 72.42705,
+        "Elevation": 28.0,
+        "Distance": 20447.45,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90688,
+        "Lng": 72.42691,
+        "Elevation": 28.0,
+        "Distance": 20467.04,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9072,
+        "Lng": 72.4272,
+        "Elevation": 28.0,
+        "Distance": 20513.39,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90804,
+        "Lng": 72.428,
+        "Elevation": 26.0,
+        "Distance": 20637.64,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90849,
+        "Lng": 72.4284,
+        "Elevation": 29.0,
+        "Distance": 20702.31,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90851,
+        "Lng": 72.42841,
+        "Elevation": 29.0,
+        "Distance": 20704.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90879,
+        "Lng": 72.42868,
+        "Elevation": 33.0,
+        "Distance": 20746.4,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.90966,
+        "Lng": 72.42947,
+        "Elevation": 30.0,
+        "Distance": 20872.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91035,
+        "Lng": 72.43012,
+        "Elevation": 28.0,
+        "Distance": 20974.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91054,
+        "Lng": 72.43028,
+        "Elevation": 28.0,
+        "Distance": 21000.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91091,
+        "Lng": 72.43064,
+        "Elevation": 30.0,
+        "Distance": 21056.09,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91116,
+        "Lng": 72.43086,
+        "Elevation": 30.0,
+        "Distance": 21091.87,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91145,
+        "Lng": 72.43114,
+        "Elevation": 29.0,
+        "Distance": 21135.03,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91155,
+        "Lng": 72.43122,
+        "Elevation": 29.0,
+        "Distance": 21148.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91166,
+        "Lng": 72.43134,
+        "Elevation": 30.0,
+        "Distance": 21166.18,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91483,
+        "Lng": 72.43428,
+        "Elevation": 31.0,
+        "Distance": 21629.77,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.91477,
+        "Lng": 72.43436,
+        "Elevation": 31.0,
+        "Distance": 21640.34,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92573,
+        "Lng": 72.44454,
+        "Elevation": 36.0,
+        "Distance": 23244.15,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92617,
+        "Lng": 72.44497,
+        "Elevation": 36.0,
+        "Distance": 23309.98,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92639,
+        "Lng": 72.44516,
+        "Elevation": 34.0,
+        "Distance": 23341.24,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92731,
+        "Lng": 72.44603,
+        "Elevation": 34.0,
+        "Distance": 23476.9,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92744,
+        "Lng": 72.44614,
+        "Elevation": 34.0,
+        "Distance": 23495.22,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9276,
+        "Lng": 72.4463,
+        "Elevation": 35.0,
+        "Distance": 23519.41,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.92865,
+        "Lng": 72.44723,
+        "Elevation": 34.0,
+        "Distance": 23670.08,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93208,
+        "Lng": 72.45016,
+        "Elevation": 36.0,
+        "Distance": 24155.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93237,
+        "Lng": 72.45039,
+        "Elevation": 37.0,
+        "Distance": 24195.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93264,
+        "Lng": 72.45063,
+        "Elevation": 37.0,
+        "Distance": 24234.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9329,
+        "Lng": 72.45084,
+        "Elevation": 37.0,
+        "Distance": 24270.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93433,
+        "Lng": 72.45206,
+        "Elevation": 35.0,
+        "Distance": 24472.35,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93475,
+        "Lng": 72.45244,
+        "Elevation": 33.0,
+        "Distance": 24533.14,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.93533,
+        "Lng": 72.4529,
+        "Elevation": 35.0,
+        "Distance": 24613.0,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94445,
+        "Lng": 72.46074,
+        "Elevation": 42.0,
+        "Distance": 25906.42,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94449,
+        "Lng": 72.46077,
+        "Elevation": 42.0,
+        "Distance": 25911.82,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94452,
+        "Lng": 72.46081,
+        "Elevation": 42.0,
+        "Distance": 25917.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9448,
+        "Lng": 72.46104,
+        "Elevation": 40.0,
+        "Distance": 25956.14,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94507,
+        "Lng": 72.46128,
+        "Elevation": 38.0,
+        "Distance": 25994.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94511,
+        "Lng": 72.46131,
+        "Elevation": 38.0,
+        "Distance": 26000.35,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9452,
+        "Lng": 72.4614,
+        "Elevation": 38.0,
+        "Distance": 26013.95,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94584,
+        "Lng": 72.46192,
+        "Elevation": 38.0,
+        "Distance": 26102.83,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94629,
+        "Lng": 72.46232,
+        "Elevation": 39.0,
+        "Distance": 26167.5,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.94709,
+        "Lng": 72.46298,
+        "Elevation": 38.0,
+        "Distance": 26279.21,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95549,
+        "Lng": 72.47016,
+        "Elevation": 37.0,
+        "Distance": 27467.87,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95552,
+        "Lng": 72.47019,
+        "Elevation": 37.0,
+        "Distance": 27472.4,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95569,
+        "Lng": 72.47033,
+        "Elevation": 37.0,
+        "Distance": 27496.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95572,
+        "Lng": 72.47036,
+        "Elevation": 37.0,
+        "Distance": 27500.66,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9568,
+        "Lng": 72.47128,
+        "Elevation": 41.0,
+        "Distance": 27653.29,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95692,
+        "Lng": 72.47137,
+        "Elevation": 41.0,
+        "Distance": 27669.51,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95712,
+        "Lng": 72.4714,
+        "Elevation": 39.0,
+        "Distance": 27691.96,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95717,
+        "Lng": 72.47145,
+        "Elevation": 38.0,
+        "Distance": 27699.51,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95743,
+        "Lng": 72.47166,
+        "Elevation": 36.0,
+        "Distance": 27735.54,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95771,
+        "Lng": 72.47191,
+        "Elevation": 36.0,
+        "Distance": 27775.85,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9578,
+        "Lng": 72.47198,
+        "Elevation": 36.0,
+        "Distance": 27788.16,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95903,
+        "Lng": 72.47304,
+        "Elevation": 39.0,
+        "Distance": 27962.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.95907,
+        "Lng": 72.47308,
+        "Elevation": 39.0,
+        "Distance": 27968.8,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96085,
+        "Lng": 72.47456,
+        "Elevation": 40.0,
+        "Distance": 28218.08,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9611,
+        "Lng": 72.47474,
+        "Elevation": 41.0,
+        "Distance": 28251.43,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96112,
+        "Lng": 72.47475,
+        "Elevation": 41.0,
+        "Distance": 28253.88,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96126,
+        "Lng": 72.47486,
+        "Elevation": 40.0,
+        "Distance": 28273.09,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96131,
+        "Lng": 72.47488,
+        "Elevation": 40.0,
+        "Distance": 28279.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96138,
+        "Lng": 72.47493,
+        "Elevation": 40.0,
+        "Distance": 28288.33,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96143,
+        "Lng": 72.47502,
+        "Elevation": 39.0,
+        "Distance": 28299.09,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96157,
+        "Lng": 72.47509,
+        "Elevation": 38.0,
+        "Distance": 28316.23,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9619,
+        "Lng": 72.4754,
+        "Elevation": 37.0,
+        "Distance": 28364.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9621,
+        "Lng": 72.47562,
+        "Elevation": 38.0,
+        "Distance": 28396.4,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96228,
+        "Lng": 72.47578,
+        "Elevation": 38.0,
+        "Distance": 28422.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96273,
+        "Lng": 72.47632,
+        "Elevation": 36.0,
+        "Distance": 28496.83,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96332,
+        "Lng": 72.47681,
+        "Elevation": 37.0,
+        "Distance": 28579.42,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96353,
+        "Lng": 72.47701,
+        "Elevation": 39.0,
+        "Distance": 28610.48,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96392,
+        "Lng": 72.47735,
+        "Elevation": 42.0,
+        "Distance": 28666.09,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96533,
+        "Lng": 72.47872,
+        "Elevation": 40.0,
+        "Distance": 28876.46,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96541,
+        "Lng": 72.47878,
+        "Elevation": 40.0,
+        "Distance": 28887.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96719,
+        "Lng": 72.4805,
+        "Elevation": 43.0,
+        "Distance": 29152.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96777,
+        "Lng": 72.48104,
+        "Elevation": 46.0,
+        "Distance": 29237.14,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.96875,
+        "Lng": 72.48202,
+        "Elevation": 43.0,
+        "Distance": 29385.26,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9715,
+        "Lng": 72.48464,
+        "Elevation": 44.0,
+        "Distance": 29792.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97153,
+        "Lng": 72.48466,
+        "Elevation": 44.0,
+        "Distance": 29795.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97159,
+        "Lng": 72.48473,
+        "Elevation": 44.0,
+        "Distance": 29805.73,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97205,
+        "Lng": 72.48515,
+        "Elevation": 40.0,
+        "Distance": 29872.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97231,
+        "Lng": 72.48542,
+        "Elevation": 38.0,
+        "Distance": 29912.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97256,
+        "Lng": 72.48565,
+        "Elevation": 40.0,
+        "Distance": 29948.98,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97269,
+        "Lng": 72.48578,
+        "Elevation": 41.0,
+        "Distance": 29968.63,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97269,
+        "Lng": 72.48579,
+        "Elevation": 41.0,
+        "Distance": 29969.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97286,
+        "Lng": 72.48596,
+        "Elevation": 42.0,
+        "Distance": 29995.35,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97292,
+        "Lng": 72.48601,
+        "Elevation": 42.0,
+        "Distance": 30003.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97326,
+        "Lng": 72.48635,
+        "Elevation": 42.0,
+        "Distance": 30055.15,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97361,
+        "Lng": 72.48667,
+        "Elevation": 43.0,
+        "Distance": 30106.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97372,
+        "Lng": 72.48679,
+        "Elevation": 43.0,
+        "Distance": 30123.35,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97512,
+        "Lng": 72.48814,
+        "Elevation": 41.0,
+        "Distance": 30331.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97543,
+        "Lng": 72.48834,
+        "Elevation": 42.0,
+        "Distance": 30371.62,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97588,
+        "Lng": 72.48871,
+        "Elevation": 42.0,
+        "Distance": 30434.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97592,
+        "Lng": 72.48873,
+        "Elevation": 42.0,
+        "Distance": 30439.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97598,
+        "Lng": 72.48879,
+        "Elevation": 42.0,
+        "Distance": 30448.34,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97603,
+        "Lng": 72.48883,
+        "Elevation": 43.0,
+        "Distance": 30455.24,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97805,
+        "Lng": 72.49081,
+        "Elevation": 43.0,
+        "Distance": 30757.8,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97883,
+        "Lng": 72.49164,
+        "Elevation": 45.0,
+        "Distance": 30879.21,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97912,
+        "Lng": 72.4919,
+        "Elevation": 44.0,
+        "Distance": 30921.03,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97922,
+        "Lng": 72.49198,
+        "Elevation": 44.0,
+        "Distance": 30934.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97972,
+        "Lng": 72.49231,
+        "Elevation": 45.0,
+        "Distance": 30999.89,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97985,
+        "Lng": 72.49237,
+        "Elevation": 45.0,
+        "Distance": 31015.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97973,
+        "Lng": 72.49273,
+        "Elevation": 45.0,
+        "Distance": 31054.79,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.97994,
+        "Lng": 72.49312,
+        "Elevation": 44.0,
+        "Distance": 31101.05,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98002,
+        "Lng": 72.49324,
+        "Elevation": 44.0,
+        "Distance": 31116.21,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98039,
+        "Lng": 72.49365,
+        "Elevation": 43.0,
+        "Distance": 31174.99,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98061,
+        "Lng": 72.49391,
+        "Elevation": 44.0,
+        "Distance": 31211.14,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98077,
+        "Lng": 72.49408,
+        "Elevation": 45.0,
+        "Distance": 31236.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98079,
+        "Lng": 72.49411,
+        "Elevation": 45.0,
+        "Distance": 31239.82,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98089,
+        "Lng": 72.49421,
+        "Elevation": 45.0,
+        "Distance": 31254.93,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98162,
+        "Lng": 72.49507,
+        "Elevation": 45.0,
+        "Distance": 31374.68,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98163,
+        "Lng": 72.49509,
+        "Elevation": 45.0,
+        "Distance": 31377.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98173,
+        "Lng": 72.4952,
+        "Elevation": 45.0,
+        "Distance": 31392.83,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98221,
+        "Lng": 72.49577,
+        "Elevation": 46.0,
+        "Distance": 31471.91,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98223,
+        "Lng": 72.49579,
+        "Elevation": 46.0,
+        "Distance": 31474.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98359,
+        "Lng": 72.49743,
+        "Elevation": 43.0,
+        "Distance": 31700.89,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98361,
+        "Lng": 72.49745,
+        "Elevation": 43.0,
+        "Distance": 31703.91,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98373,
+        "Lng": 72.49761,
+        "Elevation": 42.0,
+        "Distance": 31725.04,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98426,
+        "Lng": 72.49823,
+        "Elevation": 43.0,
+        "Distance": 31811.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9843,
+        "Lng": 72.49829,
+        "Elevation": 44.0,
+        "Distance": 31819.23,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98513,
+        "Lng": 72.49929,
+        "Elevation": 46.0,
+        "Distance": 31957.06,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98593,
+        "Lng": 72.50029,
+        "Elevation": 46.0,
+        "Distance": 32092.68,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98645,
+        "Lng": 72.501,
+        "Elevation": 41.0,
+        "Distance": 32185.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98675,
+        "Lng": 72.50146,
+        "Elevation": 41.0,
+        "Distance": 32243.26,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98685,
+        "Lng": 72.5016,
+        "Elevation": 42.0,
+        "Distance": 32261.4,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98688,
+        "Lng": 72.50162,
+        "Elevation": 42.0,
+        "Distance": 32265.31,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98689,
+        "Lng": 72.50163,
+        "Elevation": 42.0,
+        "Distance": 32266.82,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98694,
+        "Lng": 72.50163,
+        "Elevation": 43.0,
+        "Distance": 32272.38,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98696,
+        "Lng": 72.5017,
+        "Elevation": 43.0,
+        "Distance": 32279.88,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98697,
+        "Lng": 72.50178,
+        "Elevation": 44.0,
+        "Distance": 32288.15,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98699,
+        "Lng": 72.50178,
+        "Elevation": 44.0,
+        "Distance": 32290.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98699,
+        "Lng": 72.50177,
+        "Elevation": 44.0,
+        "Distance": 32291.4,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98703,
+        "Lng": 72.50177,
+        "Elevation": 44.0,
+        "Distance": 32295.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98703,
+        "Lng": 72.50178,
+        "Elevation": 44.0,
+        "Distance": 32296.87,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98705,
+        "Lng": 72.50178,
+        "Elevation": 44.0,
+        "Distance": 32299.09,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98706,
+        "Lng": 72.50179,
+        "Elevation": 44.0,
+        "Distance": 32300.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98707,
+        "Lng": 72.50179,
+        "Elevation": 44.0,
+        "Distance": 32301.71,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98707,
+        "Lng": 72.5018,
+        "Elevation": 44.0,
+        "Distance": 32302.74,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98708,
+        "Lng": 72.5018,
+        "Elevation": 44.0,
+        "Distance": 32303.85,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98709,
+        "Lng": 72.50181,
+        "Elevation": 44.0,
+        "Distance": 32305.36,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98709,
+        "Lng": 72.50182,
+        "Elevation": 44.0,
+        "Distance": 32306.39,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9871,
+        "Lng": 72.50183,
+        "Elevation": 44.0,
+        "Distance": 32307.9,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9871,
+        "Lng": 72.50184,
+        "Elevation": 44.0,
+        "Distance": 32308.92,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98711,
+        "Lng": 72.50184,
+        "Elevation": 44.0,
+        "Distance": 32310.03,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98711,
+        "Lng": 72.50192,
+        "Elevation": 44.0,
+        "Distance": 32318.22,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9872,
+        "Lng": 72.50212,
+        "Elevation": 44.0,
+        "Distance": 32341.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98746,
+        "Lng": 72.50263,
+        "Elevation": 43.0,
+        "Distance": 32400.69,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98755,
+        "Lng": 72.50287,
+        "Elevation": 43.0,
+        "Distance": 32427.21,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98758,
+        "Lng": 72.50297,
+        "Elevation": 43.0,
+        "Distance": 32437.98,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98761,
+        "Lng": 72.50312,
+        "Elevation": 43.0,
+        "Distance": 32453.69,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98767,
+        "Lng": 72.50361,
+        "Elevation": 43.0,
+        "Distance": 32504.29,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98773,
+        "Lng": 72.50435,
+        "Elevation": 42.0,
+        "Distance": 32580.34,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98791,
+        "Lng": 72.50566,
+        "Elevation": 45.0,
+        "Distance": 32715.92,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98819,
+        "Lng": 72.508,
+        "Elevation": 42.0,
+        "Distance": 32957.47,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98837,
+        "Lng": 72.50911,
+        "Elevation": 38.0,
+        "Distance": 33072.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98873,
+        "Lng": 72.51075,
+        "Elevation": 39.0,
+        "Distance": 33245.43,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9888,
+        "Lng": 72.51113,
+        "Elevation": 37.0,
+        "Distance": 33285.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98882,
+        "Lng": 72.5112,
+        "Elevation": 38.0,
+        "Distance": 33292.6,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98923,
+        "Lng": 72.51308,
+        "Elevation": 42.0,
+        "Distance": 33490.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98936,
+        "Lng": 72.51362,
+        "Elevation": 39.0,
+        "Distance": 33547.5,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98954,
+        "Lng": 72.51421,
+        "Elevation": 40.0,
+        "Distance": 33611.13,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.98995,
+        "Lng": 72.5153,
+        "Elevation": 38.0,
+        "Distance": 33731.66,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99198,
+        "Lng": 72.5203,
+        "Elevation": 41.0,
+        "Distance": 34291.04,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99209,
+        "Lng": 72.52051,
+        "Elevation": 40.0,
+        "Distance": 34315.77,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99228,
+        "Lng": 72.52095,
+        "Elevation": 42.0,
+        "Distance": 34365.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99242,
+        "Lng": 72.52132,
+        "Elevation": 46.0,
+        "Distance": 34406.46,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99258,
+        "Lng": 72.52182,
+        "Elevation": 45.0,
+        "Distance": 34460.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99467,
+        "Lng": 72.52969,
+        "Elevation": 44.0,
+        "Distance": 35299.08,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99544,
+        "Lng": 72.53301,
+        "Elevation": 43.0,
+        "Distance": 35649.53,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99557,
+        "Lng": 72.53348,
+        "Elevation": 42.0,
+        "Distance": 35699.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99557,
+        "Lng": 72.5336,
+        "Elevation": 41.0,
+        "Distance": 35712.05,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9956,
+        "Lng": 72.53377,
+        "Elevation": 41.0,
+        "Distance": 35729.76,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99593,
+        "Lng": 72.53529,
+        "Elevation": 45.0,
+        "Distance": 35889.62,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99629,
+        "Lng": 72.53682,
+        "Elevation": 47.0,
+        "Distance": 36051.26,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99647,
+        "Lng": 72.5377,
+        "Elevation": 46.0,
+        "Distance": 36143.53,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99652,
+        "Lng": 72.53786,
+        "Elevation": 45.0,
+        "Distance": 36160.83,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99673,
+        "Lng": 72.53872,
+        "Elevation": 44.0,
+        "Distance": 36251.9,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99692,
+        "Lng": 72.53928,
+        "Elevation": 44.0,
+        "Distance": 36312.99,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99768,
+        "Lng": 72.54128,
+        "Elevation": 46.0,
+        "Distance": 36534.46,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99793,
+        "Lng": 72.54187,
+        "Elevation": 45.0,
+        "Distance": 36600.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99805,
+        "Lng": 72.54211,
+        "Elevation": 45.0,
+        "Distance": 36628.9,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99836,
+        "Lng": 72.54282,
+        "Elevation": 45.0,
+        "Distance": 36709.33,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99837,
+        "Lng": 72.54286,
+        "Elevation": 45.0,
+        "Distance": 36713.58,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99884,
+        "Lng": 72.54395,
+        "Elevation": 44.0,
+        "Distance": 36836.78,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99926,
+        "Lng": 72.54478,
+        "Elevation": 46.0,
+        "Distance": 36933.72,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.99968,
+        "Lng": 72.54555,
+        "Elevation": 44.0,
+        "Distance": 37025.34,
+        "Placename": ""
+    },
+    {
+        "Lat": 22.9999,
+        "Lng": 72.5459,
+        "Elevation": 47.0,
+        "Distance": 37068.72,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00021,
+        "Lng": 72.54634,
+        "Elevation": 45.0,
+        "Distance": 37125.43,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00036,
+        "Lng": 72.54652,
+        "Elevation": 45.0,
+        "Distance": 37150.28,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00038,
+        "Lng": 72.54656,
+        "Elevation": 45.0,
+        "Distance": 37154.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0005,
+        "Lng": 72.54668,
+        "Elevation": 45.0,
+        "Distance": 37173.08,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0006,
+        "Lng": 72.54677,
+        "Elevation": 45.0,
+        "Distance": 37187.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00066,
+        "Lng": 72.54681,
+        "Elevation": 45.0,
+        "Distance": 37195.35,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00094,
+        "Lng": 72.54697,
+        "Elevation": 46.0,
+        "Distance": 37230.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00107,
+        "Lng": 72.54702,
+        "Elevation": 46.0,
+        "Distance": 37245.86,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00115,
+        "Lng": 72.54706,
+        "Elevation": 47.0,
+        "Distance": 37255.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0012,
+        "Lng": 72.54708,
+        "Elevation": 47.0,
+        "Distance": 37261.58,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0013,
+        "Lng": 72.54714,
+        "Elevation": 46.0,
+        "Distance": 37274.28,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00131,
+        "Lng": 72.54716,
+        "Elevation": 46.0,
+        "Distance": 37276.61,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00141,
+        "Lng": 72.54722,
+        "Elevation": 46.0,
+        "Distance": 37289.31,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00174,
+        "Lng": 72.54748,
+        "Elevation": 43.0,
+        "Distance": 37334.64,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00178,
+        "Lng": 72.54752,
+        "Elevation": 43.0,
+        "Distance": 37340.68,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0018,
+        "Lng": 72.54757,
+        "Elevation": 43.0,
+        "Distance": 37346.26,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00185,
+        "Lng": 72.54766,
+        "Elevation": 44.0,
+        "Distance": 37357.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00186,
+        "Lng": 72.54772,
+        "Elevation": 44.0,
+        "Distance": 37363.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00188,
+        "Lng": 72.5478,
+        "Elevation": 44.0,
+        "Distance": 37371.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00196,
+        "Lng": 72.5484,
+        "Elevation": 49.0,
+        "Distance": 37433.8,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00226,
+        "Lng": 72.54975,
+        "Elevation": 52.0,
+        "Distance": 37575.95,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00227,
+        "Lng": 72.54984,
+        "Elevation": 51.0,
+        "Distance": 37585.23,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00228,
+        "Lng": 72.54984,
+        "Elevation": 51.0,
+        "Distance": 37586.34,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00233,
+        "Lng": 72.54994,
+        "Elevation": 50.0,
+        "Distance": 37597.99,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00234,
+        "Lng": 72.55002,
+        "Elevation": 49.0,
+        "Distance": 37606.25,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00239,
+        "Lng": 72.55027,
+        "Elevation": 49.0,
+        "Distance": 37632.44,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00242,
+        "Lng": 72.55039,
+        "Elevation": 49.0,
+        "Distance": 37645.17,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0026,
+        "Lng": 72.55097,
+        "Elevation": 50.0,
+        "Distance": 37707.81,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00262,
+        "Lng": 72.55099,
+        "Elevation": 50.0,
+        "Distance": 37710.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00264,
+        "Lng": 72.55103,
+        "Elevation": 50.0,
+        "Distance": 37715.5,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00294,
+        "Lng": 72.55143,
+        "Elevation": 52.0,
+        "Distance": 37768.31,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0031,
+        "Lng": 72.55158,
+        "Elevation": 52.0,
+        "Distance": 37791.81,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00368,
+        "Lng": 72.55208,
+        "Elevation": 51.0,
+        "Distance": 37874.14,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00379,
+        "Lng": 72.5522,
+        "Elevation": 50.0,
+        "Distance": 37891.47,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00392,
+        "Lng": 72.55239,
+        "Elevation": 49.0,
+        "Distance": 37915.7,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00399,
+        "Lng": 72.55247,
+        "Elevation": 49.0,
+        "Distance": 37927.0,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00421,
+        "Lng": 72.55275,
+        "Elevation": 50.0,
+        "Distance": 37964.68,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00423,
+        "Lng": 72.55277,
+        "Elevation": 50.0,
+        "Distance": 37967.7,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00444,
+        "Lng": 72.55307,
+        "Elevation": 47.0,
+        "Distance": 38006.28,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00444,
+        "Lng": 72.55308,
+        "Elevation": 47.0,
+        "Distance": 38007.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0046,
+        "Lng": 72.55332,
+        "Elevation": 48.0,
+        "Distance": 38037.63,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00474,
+        "Lng": 72.55355,
+        "Elevation": 50.0,
+        "Distance": 38065.85,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00489,
+        "Lng": 72.55383,
+        "Elevation": 50.0,
+        "Distance": 38099.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00501,
+        "Lng": 72.55408,
+        "Elevation": 49.0,
+        "Distance": 38127.87,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00504,
+        "Lng": 72.55413,
+        "Elevation": 49.0,
+        "Distance": 38133.98,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00505,
+        "Lng": 72.55414,
+        "Elevation": 49.0,
+        "Distance": 38135.49,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00505,
+        "Lng": 72.55415,
+        "Elevation": 49.0,
+        "Distance": 38136.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0051,
+        "Lng": 72.55424,
+        "Elevation": 49.0,
+        "Distance": 38147.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00511,
+        "Lng": 72.55428,
+        "Elevation": 49.0,
+        "Distance": 38151.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00554,
+        "Lng": 72.55518,
+        "Elevation": 52.0,
+        "Distance": 38255.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00558,
+        "Lng": 72.55528,
+        "Elevation": 52.0,
+        "Distance": 38266.46,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00566,
+        "Lng": 72.55544,
+        "Elevation": 52.0,
+        "Distance": 38285.1,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00588,
+        "Lng": 72.55598,
+        "Elevation": 52.0,
+        "Distance": 38345.54,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00594,
+        "Lng": 72.55611,
+        "Elevation": 51.0,
+        "Distance": 38360.43,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00594,
+        "Lng": 72.55612,
+        "Elevation": 51.0,
+        "Distance": 38361.45,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00599,
+        "Lng": 72.55623,
+        "Elevation": 50.0,
+        "Distance": 38374.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.006,
+        "Lng": 72.55626,
+        "Elevation": 50.0,
+        "Distance": 38377.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0061,
+        "Lng": 72.55646,
+        "Elevation": 50.0,
+        "Distance": 38400.57,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00614,
+        "Lng": 72.55652,
+        "Elevation": 50.0,
+        "Distance": 38408.15,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00617,
+        "Lng": 72.55658,
+        "Elevation": 50.0,
+        "Distance": 38415.14,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00621,
+        "Lng": 72.55662,
+        "Elevation": 50.0,
+        "Distance": 38421.18,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00628,
+        "Lng": 72.55671,
+        "Elevation": 50.0,
+        "Distance": 38433.24,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00659,
+        "Lng": 72.55703,
+        "Elevation": 51.0,
+        "Distance": 38480.79,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00664,
+        "Lng": 72.55707,
+        "Elevation": 51.0,
+        "Distance": 38487.7,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00699,
+        "Lng": 72.55741,
+        "Elevation": 51.0,
+        "Distance": 38539.9,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00713,
+        "Lng": 72.55759,
+        "Elevation": 51.0,
+        "Distance": 38564.02,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00715,
+        "Lng": 72.55761,
+        "Elevation": 51.0,
+        "Distance": 38567.05,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00724,
+        "Lng": 72.55774,
+        "Elevation": 51.0,
+        "Distance": 38583.69,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00725,
+        "Lng": 72.55775,
+        "Elevation": 51.0,
+        "Distance": 38585.21,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0073,
+        "Lng": 72.55782,
+        "Elevation": 52.0,
+        "Distance": 38594.27,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00744,
+        "Lng": 72.55807,
+        "Elevation": 53.0,
+        "Distance": 38624.23,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00761,
+        "Lng": 72.55845,
+        "Elevation": 50.0,
+        "Distance": 38667.47,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00776,
+        "Lng": 72.55888,
+        "Elevation": 50.0,
+        "Distance": 38714.53,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00794,
+        "Lng": 72.55957,
+        "Elevation": 50.0,
+        "Distance": 38787.94,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.008,
+        "Lng": 72.55974,
+        "Elevation": 49.0,
+        "Distance": 38806.57,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00801,
+        "Lng": 72.55978,
+        "Elevation": 49.0,
+        "Distance": 38810.81,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00808,
+        "Lng": 72.55999,
+        "Elevation": 49.0,
+        "Distance": 38833.67,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0083,
+        "Lng": 72.56043,
+        "Elevation": 50.0,
+        "Distance": 38884.92,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00842,
+        "Lng": 72.56063,
+        "Elevation": 51.0,
+        "Distance": 38909.36,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00852,
+        "Lng": 72.56083,
+        "Elevation": 52.0,
+        "Distance": 38932.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00877,
+        "Lng": 72.56122,
+        "Elevation": 54.0,
+        "Distance": 38981.29,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00938,
+        "Lng": 72.56211,
+        "Elevation": 52.0,
+        "Distance": 39094.86,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.00986,
+        "Lng": 72.56237,
+        "Elevation": 53.0,
+        "Distance": 39154.5,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01055,
+        "Lng": 72.56271,
+        "Elevation": 52.0,
+        "Distance": 39238.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01113,
+        "Lng": 72.56297,
+        "Elevation": 50.0,
+        "Distance": 39308.52,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01122,
+        "Lng": 72.56303,
+        "Elevation": 50.0,
+        "Distance": 39320.26,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01162,
+        "Lng": 72.56323,
+        "Elevation": 51.0,
+        "Distance": 39369.22,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01197,
+        "Lng": 72.56343,
+        "Elevation": 55.0,
+        "Distance": 39413.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01207,
+        "Lng": 72.56348,
+        "Elevation": 55.0,
+        "Distance": 39425.43,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01249,
+        "Lng": 72.56375,
+        "Elevation": 51.0,
+        "Distance": 39479.7,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01408,
+        "Lng": 72.56485,
+        "Elevation": 49.0,
+        "Distance": 39689.3,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01609,
+        "Lng": 72.56648,
+        "Elevation": 57.0,
+        "Distance": 39968.19,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01614,
+        "Lng": 72.56653,
+        "Elevation": 57.0,
+        "Distance": 39975.75,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01652,
+        "Lng": 72.56686,
+        "Elevation": 55.0,
+        "Distance": 40029.84,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01679,
+        "Lng": 72.56708,
+        "Elevation": 54.0,
+        "Distance": 40067.37,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01703,
+        "Lng": 72.56726,
+        "Elevation": 53.0,
+        "Distance": 40099.8,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01809,
+        "Lng": 72.5681,
+        "Elevation": 53.0,
+        "Distance": 40245.69,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01857,
+        "Lng": 72.56851,
+        "Elevation": 54.0,
+        "Distance": 40313.58,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0189,
+        "Lng": 72.56881,
+        "Elevation": 52.0,
+        "Distance": 40361.42,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01895,
+        "Lng": 72.56884,
+        "Elevation": 51.0,
+        "Distance": 40367.77,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.01939,
+        "Lng": 72.56923,
+        "Elevation": 53.0,
+        "Distance": 40430.91,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02054,
+        "Lng": 72.57018,
+        "Elevation": 51.0,
+        "Distance": 40591.55,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02089,
+        "Lng": 72.57045,
+        "Elevation": 51.0,
+        "Distance": 40639.28,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02137,
+        "Lng": 72.57099,
+        "Elevation": 51.0,
+        "Distance": 40716.11,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02143,
+        "Lng": 72.57105,
+        "Elevation": 51.0,
+        "Distance": 40725.18,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02149,
+        "Lng": 72.57109,
+        "Elevation": 50.0,
+        "Distance": 40733.01,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02154,
+        "Lng": 72.57114,
+        "Elevation": 51.0,
+        "Distance": 40740.56,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02165,
+        "Lng": 72.57121,
+        "Elevation": 51.0,
+        "Distance": 40754.74,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02171,
+        "Lng": 72.57124,
+        "Elevation": 51.0,
+        "Distance": 40762.08,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02187,
+        "Lng": 72.5713,
+        "Elevation": 52.0,
+        "Distance": 40780.9,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02193,
+        "Lng": 72.57131,
+        "Elevation": 53.0,
+        "Distance": 40787.65,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02206,
+        "Lng": 72.57131,
+        "Elevation": 52.0,
+        "Distance": 40802.11,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0222,
+        "Lng": 72.57132,
+        "Elevation": 51.0,
+        "Distance": 40817.71,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.02229,
+        "Lng": 72.57132,
+        "Elevation": 51.0,
+        "Distance": 40827.71,
+        "Placename": ""
+    },
+    {
+        "Lat": 23.0225,
+        "Lng": 72.5713,
+        "Elevation": 50.0,
+        "Distance": 40851.16,
+        "Placename": "Ahmedabad"
+    }
+]
